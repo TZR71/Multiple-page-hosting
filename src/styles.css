@@ -2,6 +2,10 @@ body {
   background-color: azure;
   text-align: center;
 }
+.container{
+    margin: auto;
+    max-width: 500px;
+}
 
 a {
   padding: 15px;
