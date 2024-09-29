@@ -15,3 +15,8 @@ footer {
 .email{
     padding:0;
 }
+.dog-image{
+    size: 200px;
+    border-radius: 4px;
+    margin:20px;
+}
